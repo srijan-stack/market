@@ -6,3 +6,6 @@ def price(num):
 
 def discount(num):
     return num
+
+def finalSum(num):
+    return num
