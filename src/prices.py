@@ -3,3 +3,6 @@ def name(str):
 
 def price(num):
     return num
+
+def discount(num):
+    return num
