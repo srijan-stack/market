@@ -8,5 +8,5 @@ setup(name="market",
       description="this is a market calculator",
       long_description="use this to market",
       author="srijan",
-      packages=[".src"],
+      packages=["src"],
       install_requires=[])
