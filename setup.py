@@ -2,7 +2,7 @@ import sys
 import os
 
 from setuptools import setup
-setup(name="market",
+setup(name="hello1",
       version="0.3",
       url='https://github.com/srijan-stack/market',
       description="this is a market calculator",
